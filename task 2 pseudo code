@@ -1,0 +1,11 @@
+Task 2
+Character_list
+Bin_list
+
+Take param of string 
+  Loop through the indexes of param
+    Loop through the character list
+      Check if param == any character
+        If it is take the index of character and retrieve the binary val
+        Return the binary val + the rest of the string that wasn’t used  
+  Return parameter
